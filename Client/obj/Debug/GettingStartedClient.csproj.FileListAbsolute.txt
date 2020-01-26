@@ -1,0 +1,6 @@
+C:\Users\paper\OneDrive\Imagens\Documentos\Documentos Estevan\programming\source\repos\GettingStarted\GettingStartedClient\bin\Debug\GettingStartedClient.exe.config
+C:\Users\paper\OneDrive\Imagens\Documentos\Documentos Estevan\programming\source\repos\GettingStarted\GettingStartedClient\bin\Debug\GettingStartedClient.exe
+C:\Users\paper\OneDrive\Imagens\Documentos\Documentos Estevan\programming\source\repos\GettingStarted\GettingStartedClient\bin\Debug\GettingStartedClient.pdb
+C:\Users\paper\OneDrive\Imagens\Documentos\Documentos Estevan\programming\source\repos\GettingStarted\GettingStartedClient\obj\Debug\GettingStartedClient.csprojAssemblyReference.cache
+C:\Users\paper\OneDrive\Imagens\Documentos\Documentos Estevan\programming\source\repos\GettingStarted\GettingStartedClient\obj\Debug\GettingStartedClient.exe
+C:\Users\paper\OneDrive\Imagens\Documentos\Documentos Estevan\programming\source\repos\GettingStarted\GettingStartedClient\obj\Debug\GettingStartedClient.pdb
